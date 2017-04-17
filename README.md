@@ -1,2 +1,1 @@
-# make-kevin-president-and-take-over-the-world
-yes
+We will make Kevin president and take over the world
